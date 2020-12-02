@@ -6,7 +6,7 @@ A Cabine de Pintura Retrátil é o resultado do Projeto Integrador Transversal p
 |Matheus Ferreira Alves Say| Líder de Projeto| https://www.linkedin.com/in/matheus-ferreira-alves-say-65ba0a1b5|
 |-------------------------------|---------------|---------------------------------------------------------------------|
 |Herculano Reis de Ávila| Desenho Técnico| https://www.linkedin.com/in/herculano-reis-de-%C3%A1vila-b67450187/|
-|Pedro Henrique Calcic Mussinat| Orçamento||
+|Pedro Henrique Calcic Mussinat| Orçamento|https://www.linkedin.com/in/pedro-calcic-606003196|
 |Thiago Soares Alves de Souza| Desenho Técnico|https://www.linkedin.com/in/thiago-soares-alves-de-souza-|
 |Welington Pedro Luz de Souza| Orçamento|https://www.linkedin.com/in/wellington-pedro-luz-de-souza-267b4491/|
 
