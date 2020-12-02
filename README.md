@@ -1,4 +1,4 @@
-# Cabine de Pintura Retratil
+# Cabine de Pintura Retrátil
 ![image](https://user-images.githubusercontent.com/61927442/100828116-1aab1080-343d-11eb-8d51-48feadcc3603.png)
 
 
