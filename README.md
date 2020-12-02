@@ -11,7 +11,7 @@
 |Welington Pedro Luz de Souza| Orçamento|https://www.linkedin.com/in/wellington-pedro-luz-de-souza-267b4491/|
 
 ## Premissa:
-O projeto foi baseado na necessidade real de uma grande empresa do setor de manutenção de aeronaves, situada em SJC – SP, em adquirir uma cabide de pintura de duzentos de sessenta metros quadrados para realizar serviço de pintura em aeronaves de pequeno e médio porte.
+O projeto foi baseado na necessidade real de uma grande empresa do setor de manutenção de aeronaves, situada em SJC – SP, em adquirir uma cabine de pintura de duzentos de sessenta metros quadrados para realizar serviço de pintura em aeronaves de pequeno e médio porte.
 
 
 <b>Link YouTube:
